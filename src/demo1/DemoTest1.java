@@ -7,5 +7,7 @@ public class DemoTest1 {
 		System.out.println("Java");
 		
 	}
-
+	public void add(int a, int b) {
+		System.out.println(a + b);
+	}
 }
